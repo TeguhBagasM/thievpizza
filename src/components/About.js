@@ -7,11 +7,11 @@ const About = () => {
         <div className="row">
           <div className="col-6 p-25">
             <h3>About Us</h3>
-            <h1>WELCOME TO MAESTRO PIZZINI</h1>
+            <h1>WELCOME TO THIEV PIZZA</h1>
             <p>
-              At Maestro Pizzini, we are passionate about delivering the best pizza experience. Our
-              pizzas are made with the freshest ingredients and baked to perfection. Whether you are
-              looking for a classic Margherita or a gourmet creation, we have something for everyone.
+              At Thiev Pizza, we are passionate about delivering the best pizza experience. Our pizzas
+              are made with the freshest ingredients and baked to perfection. Whether you are looking
+              for a classic Margherita or a gourmet creation, we have something for everyone.
             </p>
             <div className="about__btn">
               <a href="#more" className="btn btn-smart">
