@@ -6,6 +6,7 @@ import Shop from "./components/Shop";
 import Menu from "./components/Menu";
 import Clients from "./components/Clients";
 import Prices from "./components/Prices";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Menu />
       <Clients />
       <Prices />
+      <Footer />
     </div>
   );
 }

@@ -1,4 +1,5 @@
 import React from "react";
+// import { FaHome, FaPizzaSlice, FaStore, FaNewspaper, FaUtensils } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -18,7 +19,7 @@ const Navbar = () => {
             <a href="#shop">Shop</a>
           </li>
           <li>
-            <a href="#clients">News</a>
+            <a href="#news">News</a>
           </li>
           <li>
             <a href="#pizza">Pizza</a>
